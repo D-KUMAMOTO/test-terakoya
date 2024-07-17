@@ -1,0 +1,20 @@
+h1::before {
+    content: "◆";
+    color: orange;
+}
+
+/* p::after {
+    content: "この中に追加するコンテンツを書きます";
+} */
+
+/* p::first-letter {
+    font-size: 24px;
+    font-weight: bold;
+}
+*/
+
+/* p::first-line {
+    font-size: 24px;
+    font-weight: bold;
+} */
+
